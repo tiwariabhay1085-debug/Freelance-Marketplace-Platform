@@ -1,8 +1,8 @@
-CREATE DATABASE IF NOT EXISTS Prolance
+CREATE DATABASE IF NOT EXISTS prolance
 CHARACTER SET utf8mb4
 COLLATE utf8mb4_unicode_ci;
 
-USE Prolance;
+USE prolance;
 
 
 -- =========================================
